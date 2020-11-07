@@ -5,5 +5,5 @@ The notebooks created are used to learn different tools for data visualization. 
 Libraries used:
 
     seaborn==0.11.0
-    matplotlib==3.2.2
+    matplotlib==3.3.2
     plotly==4.12.0
